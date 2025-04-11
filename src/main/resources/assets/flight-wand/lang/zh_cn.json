@@ -1,0 +1,7 @@
+{
+  "item.flight-wand.flight_wand": "飞行权杖",
+  "item.flight-wand.flight_wand.tooltip.line1": "拥有此权杖，即可在天空自由翱翔！",
+  "item.flight-wand.flight_wand.tooltip.line2": "手持权杖以获得创造模式般的飞行体验！",
+  "item.flight-wand.flight_wand.tooltip.line3": "每20秒消耗1点饥饿值！",
+  "item.flight-wand.flight_wand.tooltip.line4": "手持时无摔落伤害！"
+}

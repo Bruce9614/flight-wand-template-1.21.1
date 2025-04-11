@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": { "item": "minecraft:elytra" },
+    "X": { "item": "minecraft:slime_block" },
+    "Y": { "item": "minecraft:stick" }
+  },
+  "pattern": [
+    "#",
+    "X",
+    "Y"
+  ],
+  "result": {
+    "count": 1,
+    "id": "flight-wand:flight_wand"
+  }
+}

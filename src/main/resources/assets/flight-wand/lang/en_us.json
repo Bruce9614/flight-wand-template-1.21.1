@@ -1,0 +1,7 @@
+{
+  "item.flight-wand.flight_wand": "Flight Wand",
+  "item.flight-wand.flight_wand.tooltip.line1": "With this wand, you can soar freely in the sky!",
+  "item.flight-wand.flight_wand.tooltip.line2": "Hold the wand to experience flight like in Creative Mode!",
+  "item.flight-wand.flight_wand.tooltip.line3": "Consumes 1 hunger point every 20 seconds!",
+  "item.flight-wand.flight_wand.tooltip.line4": "No fall damage when held!"
+}
